@@ -1,7 +1,7 @@
 # RaceRender Audi R18
 [RaceRender](http://racerender.com/RR3/Features.html) template based on the Audi R18 onboard telemetry display.
 
-[![](/images/rr-audi-r19_v0.5_screen_001.png)](https://www.youtube.com/watch?v=wax9-tSRHZI)
+[![](/images/rr-audi-r19_screen_001.png)](https://www.youtube.com/watch?v=spVkpmGT58Q)
 
 This template is based on the wonderful Audi R18 onboard telemetry display. 
 
